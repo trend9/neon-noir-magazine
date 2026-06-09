@@ -216,10 +216,10 @@ export default function App() {
               <span className="font-bold">Digital Publication</span>
             </div>
             <p className="text-[11px] text-zinc-400 leading-relaxed font-sans">
-              Every day, an automated pipeline weaves a bizarre short-story mystery and high-fidelity illustration, committing them cleanly.
+              Every day at midnight, our creative collective publishes a bizarre short-story mystery accompanied by a high-fidelity illustration.
             </p>
           </div>
-          <span className="text-[9px] text-zinc-500 font-mono tracking-widest uppercase mt-1">POWERED BY LLAMA-3 & FLUX.1 SCHNELL</span>
+          <span className="text-[9px] text-zinc-500 font-mono tracking-widest uppercase mt-1">A TOKYO-LONDON CO-PUBLICATION</span>
         </div>
       </header>
 
@@ -236,7 +236,7 @@ export default function App() {
             </div>
             <div className="font-mono text-[11px] text-zinc-500 flex items-center gap-1.5 uppercase tracking-widest">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-              <span>SSG Dynamic Pipeline</span>
+              <span>Premium Curated Feed</span>
             </div>
           </div>
 
@@ -258,7 +258,7 @@ export default function App() {
                 
                 {/* Generation watermark badge */}
                 <span className="absolute bottom-3 left-3 bg-black/80 backdrop-blur-md px-3 py-1 rounded text-[9px] tracking-[0.2em] uppercase text-[#e2e2e7] font-mono border border-white/10">
-                  AI ILLUSTRATION
+                  EXCLUSIVE ARTWORK
                 </span>
                 
                 <span className="absolute top-3 right-3 bg-[#8b0000]/90 backdrop-blur-md px-2.5 py-0.5 rounded text-[8px] tracking-[0.25em] text-white font-mono border border-white/10 uppercase font-bold">
@@ -268,7 +268,7 @@ export default function App() {
               
               {/* Technical Illustration Query details */}
               <div className="mt-4 p-4 rounded-lg bg-black/40 border border-white/5 font-mono text-[10px] text-zinc-400 leading-relaxed tracking-wide">
-                <div className="text-[#8b0000] font-bold mb-1 tracking-[0.15em] uppercase">🎨 FLUX GENERATOR PROMPT:</div>
+                <div className="text-[#8b0000] font-bold mb-1 tracking-[0.15em] uppercase">🎨 CREATIVE DIRECTIVE & SCENARIO:</div>
                 "{featured.image_prompt}"
               </div>
             </div>
@@ -479,16 +479,16 @@ export default function App() {
                 <span className="font-mono text-[10px] tracking-[0.25em] text-[#8b0000] uppercase font-bold">Interactive Simulator</span>
               </div>
               <h3 className="text-2xl font-serif font-bold text-white italic">
-                Co-Author an AI Mystery (Sandbox)
+                Interactive Mystery Workshop
               </h3>
               <p className="text-xs text-zinc-400 mt-1 leading-relaxed font-sans">
-                Test the narrative pipeline instantly. Choose a spooky Japanese backdrop and a dry occidental protagonist, then trigger our narrative engine to weave a localized, dark-comedy thriller in real-time.
+                Draft your own mystery scenario instantly. Select a traditional Japanese backdrop and an occidental protagonist, and watch our creative team compile a unique dark-comedy thriller in real-time.
               </p>
             </div>
             
             <div className="bg-black/40 rounded-xl px-4 py-2 border border-white/5 inline-flex items-center gap-2 max-w-xs self-start md:self-auto text-[10px] font-mono tracking-wider uppercase">
               <Info size={14} className="text-[#8b0000]" />
-              <span className="text-zinc-400">Zero Cost demonstrations</span>
+              <span className="text-zinc-400">Complimentary Workshops</span>
             </div>
           </div>
 
@@ -560,12 +560,12 @@ export default function App() {
                       <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
                       <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                     </svg>
-                    <span className="font-mono uppercase text-xs tracking-widest">Coordinating AI Novelist...</span>
+                    <span className="font-mono uppercase text-xs tracking-widest">Composing Scenario...</span>
                   </>
                 ) : (
                   <>
                     <Feather size={16} />
-                    <span className="font-mono uppercase text-[11px] tracking-widest">Draft Custom AI Mystery</span>
+                    <span className="font-mono uppercase text-[11px] tracking-widest">Draft Custom Mystery</span>
                   </>
                 )}
               </button>
@@ -585,7 +585,7 @@ export default function App() {
                     <div className="space-y-2 max-w-sm">
                       <p className="font-serif italic text-white text-md">"The bamboo is tilting... the coffee is cooling..."</p>
                       <p className="text-[11px] text-zinc-500 font-mono tracking-wider">
-                        Running pipeline parsing Japanese motifs, injecting sharp occident cynicism, drawing tragic twisted fate...
+                        Structuring traditional Japanese motifs, weaving sharp dark-comedy cynicism, drawing tragic twisted endings...
                       </p>
                     </div>
                   </motion.div>
@@ -597,7 +597,7 @@ export default function App() {
                   >
                     {/* Sandbox metadata */}
                     <div className="flex items-center gap-3 text-[10px] text-zinc-500 font-mono uppercase tracking-widest">
-                      <span className="text-white font-bold">✨ LIVE CO-AUTHORED STORY</span>
+                      <span className="text-white font-bold">✨ LIVE WORKSHOP STORY</span>
                       <span>•</span>
                       <span>{sandboxStory.location}</span>
                       <span>•</span>
@@ -625,7 +625,7 @@ export default function App() {
                           className="w-full py-2.5 px-4 bg-[#8b0000]/10 hover:bg-[#8b0000]/20 border border-[#8b0000]/45 rounded-lg text-[10px] font-mono tracking-widest uppercase flex items-center justify-center gap-1.5 cursor-pointer text-white"
                         >
                           <Eye size={12} />
-                          <span>EXPOSE THE DEVIANT SANDBOX TWIST</span>
+                          <span>REVEAL THE TWIST ENDING</span>
                         </button>
                       ) : (
                         <motion.div 
@@ -669,9 +669,9 @@ export default function App() {
                     className="h-full flex flex-col items-center justify-center text-center p-8"
                   >
                     <BookOpen size={40} className="text-zinc-800 mb-4" />
-                    <h5 className="font-serif text-sm text-zinc-400 font-bold mb-1 uppercase tracking-widest">Architect Idle</h5>
+                    <h5 className="font-serif text-sm text-zinc-400 font-bold mb-1 uppercase tracking-widest">Workshop Ink ready</h5>
                     <p className="text-xs text-zinc-500 font-sans tracking-wide max-w-sm leading-relaxed">
-                      "Select parameters on the left, author a microscopic destiny, and let the processor print your fate in elegant thermal ink."
+                      "Select parameters on the left to begin drafting a micro-mystery, and watch the narrative unfold in elegant dark prose."
                     </p>
                   </motion.div>
                 )}
@@ -693,9 +693,9 @@ export default function App() {
           </div>
           
           <div className="flex flex-wrap gap-x-6 gap-y-2 justify-center text-[10px] text-zinc-400">
-            <span>Cron Schedule: Daily 12:00 UTC</span>
-            <span>Static Site Commit Enabled</span>
-            <span>FLUX.1 Render Engine Optimized</span>
+            <span>Published Daily at 21:00 JST</span>
+            <span>Kyoto & Tokyo Editions</span>
+            <span>High-Fidelity Visual Editions</span>
           </div>
 
           <div className="text-zinc-600 text-[10px]">
