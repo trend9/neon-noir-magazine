@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Shippori+Mincho:wght@400;500;700;800&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@theme {
+  --font-serif: "Shippori Mincho", "Cinzel", Georgia, serif;
+  --font-sans: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --color-crimson-red: #8b0000;
+  --color-crimson-light: #a30000;
+  --color-glass-dark: rgba(5, 5, 8, 0.75);
+  --color-glass-border: rgba(255, 255, 255, 0.06);
+}
+
+body {
+  background-color: #050508;
+  color: #e2e2e7;
+  font-family: var(--font-sans);
+}
+
+/* Custom frosted glass utility classes */
+.frosted-glass {
+  background: rgba(5, 5, 8, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.frosted-glass-premium {
+  background: rgba(4, 4, 6, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.frosted-blur-sm {
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Custom crimson and search glow effects mapping the Japanese classic neon vibe */
+.crimson-glow {
+  box-shadow: 0 0 35px -5px rgba(139, 0, 0, 0.2);
+}
+
+.neon-white-glow {
+  box-shadow: 0 0 40px -10px rgba(255, 255, 255, 0.05);
+}
+
+/* Custom scrollbars inside text area blocks */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 99px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 99px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(139, 0, 0, 0.4);
+}
+
+@keyframes pulseRed {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.05); }
+}
+
+.animated-pulse-red {
+  animation: pulseRed 3.5s infinite ease-in-out;
+}
