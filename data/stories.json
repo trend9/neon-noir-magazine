@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260617",
+    "title": "The Ghost of the Emerald Lotus",
+    "date": "2026-06-17",
+    "location": "Kyoto's Mossy Zen Garden, Autumn Mist",
+    "excerpt": "Rain hammered the wisteria in a relentless symphony, turning the moss-laden stones into ghostly specters. Inspector Kenji Sato peered through the swirling mist, seeking a reflection that mirrored his own growing despair.",
+    "content": "The whispers started like the rustle of leaves, soft and ephemeral at first. Then they swelled to a cacophony in the stillness of the Mossy Zen Garden - murmurs of a spirit trapped between worlds, a restless soul haunting the once tranquil space. It was said that the late Master Kaito had built his private sanctuary here, weaving an intricate network of bamboo and stone meant to embody the wabi-sabi ideal: beauty found in imperfection, serenity born from decay. But now, only the echoing silence remained. The air hung heavy with the scent of dying chrysanthemums and a spectral melancholy that clung to Kenji like damp silk.",
+    "twist": "And yet, there was no ghost. Not in the way one might imagine. Kenji knelt before the Emerald Lotus; its single leaf a shocking emerald against the fading autumn hues, unnaturally vibrant. A flash of light, blindingly bright, and then - an unsettling awareness. His reflection wasn't his own; it stared back, aged and withered, adorned with a tattered crimson robe. It was Kaito, not as a spirit, but a digital avatar projected onto the very fabric of the garden itself. The soul of the garden was being consumed by the insatiable hunger of the metaverse, a grim reminder that even in the quietude of the wabi-sabi, technology's reach is vast and its grasp ruthless. ",
+    "image_prompt": "A moody dark cinematic photograph of a single moss-covered stone in the foreground with a stylized, swirling mist obscuring it, a faint outline of an aged man wearing a tattered red robe in the background; high contrast, hyperrealistic 16:9",
+    "image_url": "stories/2026-06-17.png"
+  },
+  {
     "id": "story_20260616",
     "title": "The Crimson Tide's Lament",
     "date": "2026-06-16",
