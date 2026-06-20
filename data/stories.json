@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260620",
+    "title": "The Whispering Stone of Shirakawa",
+    "date": "2026-06-20",
+    "location": "Shirakawa-go, Japan",
+    "excerpt": "A biting winter wind howled through the snowdrifts, whispering tales of ancient secrets and forgotten deities as it sculpted the stark lines of the Gassho-zukuri farmhouse. But tonight, a different kind of wind swept through its narrow corridors – one that carried the weight of suspicion and despair.",
+    "content": "The old man, Taro, hunched over a steaming cup of tea, his eyes reflecting the flickering firelight in the worn stone hearth. His weathered face, etched with years spent under a star-studded sky, held a profound sadness that seemed to emanate from the very walls themselves. The snowstorm had crippled communication lines, leaving him isolated in his mountaintop dwelling. It was then that he saw it: a single crimson stain etched on the ancient wooden paneling of his study - a mark unlike any he’d ever seen before. His heart sank; an inexplicable dread crawled over him, mirroring the fear that gripped his soul as he realised this was no ordinary stain.",
+    "twist": "The stain wasn't blood, nor was it frostbite. It was a tiny, perfectly crafted ruby, the size of a plum, embedded in the wood. The kind of stone only mined by the very wealthiest in the world – or perhaps even more impossibly, stolen from the depths of the earth centuries ago. As Taro reached for his tea, a message materialized on his phone - a notification from the Metaverse Foundation: ‘We have you’. A shiver ran down his spine as he remembered their infamous VR auction that took place just last month, where a single ruby, unearthed in the ruins of an ancient temple in Peru, had been sold for a staggering sum. This was no ordinary stone; it held the power to change everything.",
+    "image_prompt": "A moody dark cinematic photograph of Taro's weathered face as he stares at the wooden paneling with a horrified expression, a single crimson stain on its surface. Snow falls heavily outside the window, casting dramatic shadows that highlight his aged features. High contrast, deep blacks and whites, hyperrealistic 16:9",
+    "image_url": "stories/2026-06-20.png"
+  },
+  {
     "id": "story_20260619",
     "title": "The Whispering Geysers of Mount Fuji",
     "date": "2026-06-19",
