@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260705",
+    "title": "The Moon's Shadow",
+    "date": "2026-07-05",
+    "location": "Mount Kasuga, Nara Prefecture",
+    "excerpt": "Beneath the crimson gaze of the Blood Moon, whispers of a stolen artifact echo through the ancient pine forests of Nara. Detective Ikeda, a man who sees more darkness in a sunrise than most men see in a lifetime, is tasked with unraveling the mystery.",
+    "content": "The air hung thick and silent, heavy with the scent of moss and decaying leaves. A veil of ash-grey mist clung to the roots of ancient cedars, shrouding the towering pines under an oppressive red moon like some bleeding heart of night. Detective Ikeda, his sharp eyes weary from years spent navigating the murky underbelly of the city's neon decay, stood in the hushed forest, his fedora pulled low against the biting breeze. He had been summoned here, to Nara Prefecture, on a quest for something as archaic as the forgotten myths of the land: The Whisper-Stone. It was said to be carved from the very essence of a fleeting dream; a relic imbued with both unimaginable power and an unspeakable secret. Now, it had vanished - stolen from the sacred monastery where it lay tucked away in a hidden alcove.",
+    "twist": "But Ikeda’s investigation didn’t lead him to thieves or smugglers. His gaze fell upon a peculiar sight: a sleek holographic billboard, projected onto one of the ancient pines, showcasing a pristine white, luxurious apartment complex—the very same one where his son was a resident. The moon's reflection cast an eerie, distorted image onto the pine's bark as Ikeda realized – with chilling clarity – that the Whisper-Stone wasn’t stolen; it had been sold to the highest bidder: Ikeda’s own son.",
+    "image_prompt": "A moody dark cinematic photograph of a blood-red moon casting its shadow on a towering ancient pine forest, with an ethereal holographic billboard projected onto one of the pines showcasing a pristine white high-rise apartment complex. The image is captured in a low-angle shot with dramatic lighting, highlighting the contrast between nature’s decay and technological artifice. Hyperrealistic details, high contrast, cinematic style, 16:9 ratio",
+    "image_url": "stories/2026-07-05.png"
+  },
+  {
     "id": "story_20260704",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-07-04",
