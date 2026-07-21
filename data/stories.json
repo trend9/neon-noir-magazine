@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260721",
+    "title": "The Whispering Sands of Kami no Kikoe",
+    "date": "2026-07-21",
+    "location": "Miyajima Island, Japan",
+    "excerpt": "High tide swallowed the shrine whole, leaving only a single stone platform exposed to the swirling salt spray as if an ancient deity itself were orchestrating its demise. This was the place where whispers clung to the air like fog, and truths, it seemed, only resided on the edge of reality.",
+    "content": "The storm raged, howling through the ancient temple's gaping maw of a roof, mimicking the internal torment that gnawed at Kenji Watanabe's soul. He stood at the precipice, eyes fixed on the churning ocean waves as they devoured the shrine like ravenous ghosts. It was an isolated folly, a stone monument to some forgotten god’s whims - a testament to the absurdity of human existence in the face of its inevitable decay.",
+    "twist": "The storm subsided; the tide ebbed, revealing the true horror: the platform hadn't been ravaged by water but devoured by greed. A holographic projection, shimmering with gold dust, revealed Kenji's estranged brother, his voice echoing from the depths of his father’s AI-driven fortune: 'Kenji, you are needed. Your talents for this world... they have become obsolete.'",
+    "image_prompt": "A moody dark cinematic photograph of a snowy Kyoto temple gate at dusk and neon yellow lights, high contract, hyperrealistic 16:9",
+    "image_url": "stories/2026-07-21.png"
+  },
+  {
     "id": "story_20260720",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-07-20",
