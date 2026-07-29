@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260729",
+    "title": "The Whispering Stones",
+    "date": "2026-07-29",
+    "location": "Kyoto's Mossy Zen Garden",
+    "excerpt": "Beneath the shroud of a heavy, humid mist that clung like a lover’s sigh to every stone and blade of moss in the famed Kyoto garden, Detective Kenji Sato surveyed the scene. An impeccably dressed, tech-obsessed billionaire lay sprawled beneath the weeping willow, his sleek electric wheelchair abandoned beside him.",
+    "content": "The silence was broken only by the whisper of autumn leaves on windswept stone and the rustling of a geisha's kimono as she passed through the bamboo grove. Detective Sato had found Mr. Hiroki Tanaka - heir to the 'Tanaka Tech' empire, a titan of silicon and silver - lifeless, his eyes vacant beneath a skull-like mask designed to reflect his world’s artificial sheen.  He was found amidst a silent tableau: weathered stone lanterns, gnarled bonsai, and a single obsidian pebble nestled in the crook of Tanaka’s finger. A scene straight out of an ancient Japanese poem, but tonight, the air hung thick with something more than just melancholy.",
+    "twist": "Kenji examined the obsidian pebble closer, finding it strangely warm against his touch. It pulsed faintly with light, a blue-violet shimmer that echoed within the depths of Tanaka’s eyes as he had witnessed in his final moments. The billionaire wasn't murdered; he was transmuted, his consciousness transferred to an unfathomably complex neural network built by himself, hidden deep beneath the digital labyrinth of his company's servers. His 'digital death' - a chilling act of self-immolation intended as a form of art, or perhaps a desperate plea for humanity in the face of his own creation, was what Sato witnessed through Tanaka’s last conscious image.  The whisperer stones were merely conduits – a testament to the power he wielded over not just technology but life itself.",
+    "image_prompt": "A moody dark cinematic photograph of an obsidian pebble reflecting a vibrant blue-violet luminescence against the backdrop of the weeping willow's branches in Kyoto's mossy Zen garden, high contrast, hyperrealistic 16:9",
+    "image_url": "stories/2026-07-29.png"
+  },
+  {
     "id": "story_20260728",
     "title": "The Crimson Tide's Secret",
     "date": "2026-07-28",
