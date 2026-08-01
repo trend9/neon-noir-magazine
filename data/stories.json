@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260801",
+    "title": "The Silence of Snowfall",
+    "date": "2026-08-01",
+    "location": "Shirakawa-go, Japan",
+    "excerpt": "Old Masaru Sato's weathered face crinkled as he surveyed the snowdrifts obscuring his farmhouse in a silent shroud. Every year, Shirakawa-go was cloaked in white, but this time it felt different - laden with an oppressive quiet that echoed through the emptiness of the century-old Gassho-zukuri.",
+    "content": "Masaru's breath puffed out in frosty clouds as he surveyed his home. The traditional wooden latticework, a stark silhouette against the snowdrifts, had always stood resolute against time. Yet this year, an unsettling quiet pressed upon him like a physical weight. His usually bustling farmhouse was silent save for the wind howling its mournful song through the frozen gaps of the house. No birdsong, no children's laughter, not even the usual rasping drone of the wood-fired stove in the corner. It was as if time itself had forgotten to move on.",
+    "twist": "Masaru's daughter, Hana, returned from Tokyo with her new husband and a suitcase full of technological marvels - high-definition cameras and drones, digital trackers for livestock, and an AI voice assistant that spoke in smooth, perfect American accents. She called it ‘progress’. Hana had convinced her father to upgrade his ancient system to one where the farm's every action was monitored, recorded, and analyzed. The silence wasn’t a disappearance; it was a transformation. A silent scream echoed through the air as Masaru realized he was trapped in an elaborate experiment designed to predict nature - to control it.",
+    "image_prompt": "A moody dark cinematic photograph of a snow-covered gassho-zukuri farmhouse bathed in moonlight, a single beam of light illuminates a woman's silhouette standing by the window. High contrast, hyperrealistic 16:9.",
+    "image_url": "stories/2026-08-01.png"
+  },
+  {
     "id": "story_20260731",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-07-31",
