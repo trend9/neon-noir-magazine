@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260802",
+    "title": "The Crimson Deer",
+    "date": "2026-08-02",
+    "location": "Nara's Silent Pines",
+    "excerpt": "A blood-moon hung heavy in the sky, painting the ancient Nara pines with a crimson glow that seemed to whisper secrets only the deer could hear. Kaito, a solitary man known for his cynical wit and even more profound greed, found himself at the heart of it all, embroiled in a mystery as elusive as the moon itself.",
+    "content": "The air hung thick with mist and the scent of pine needles, a stark contrast to the swirling crimson hues above. Kaito, perched on a weathered stone bridge overlooking the silent pines, surveyed the scene like an emperor surveying his crumbling domain. The deer, their coats shimmering under the blood-moon's light, grazed peacefully around him, oblivious to the machinations of man, yet somehow sensing the turmoil brewing within Kaito's soul.  He had come seeking a lost jewel, one rumored to be hidden amongst the ruins of an ancient temple – a relic that could catapult his already exorbitantly luxurious life into stratospheric grandeur. It was more than wealth; it was power. He felt the thrill of possession course through him like a phantom echo. But as he stepped further into the moon-drenched forest, the whispers grew stronger. They spoke of betrayals, of ancient curses, and of the insatiable hunger that resided within this forgotten land.",
+    "twist": "Kaito stumbled upon an abandoned shrine, its weathered stone carving depicting a single deer gazing at the crimson moon.  As he reached for the jeweled pendant nestled within a chipped wooden box, the shadows on the stone walls pulsed with an eerie light. The air grew thick and heavy, choking him as a ghostly voice reverberated in his ears. It was a warning, not from the past but from the future – a chilling prophecy of greed consuming itself and leaving only ashes behind.",
+    "image_prompt": "A moody dark cinematic photograph of a weathered stone shrine beneath a blood-red moon, with glowing shadows cast by the deer. High contrast, intricate carvings, hyperrealistic 16:9.",
+    "image_url": "stories/2026-08-02.png"
+  },
+  {
     "id": "story_20260801",
     "title": "The Silence of Snowfall",
     "date": "2026-08-01",
