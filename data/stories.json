@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260812",
+    "title": "The Whispering Stones",
+    "date": "2026-08-12",
+    "location": "Zen Garden of Miyamoto, Kyoto",
+    "excerpt": "Beneath the weight of an impossible silence, punctuated only by the rustling whispers of autumn leaves, Detective Kenji Ito stumbled upon a secret. A secret that whispered back – and would never be forgiven.",
+    "content": "The mist clung to Kyoto like a lover's embrace, suffocating even the breath of the ancient stone garden.  It was here, amidst the meticulously manicured stones, that Ito found himself again embroiled in the delicate dance of life and death. The victim, Mr. Hiroshi Sato, wasn’t the first tech tycoon to meet an untimely demise in this tranquil domain. Yet, something about this particular tragedy felt different. A melancholic whisper clung to the air, like the ghost of a lost haiku in the wind.   He'd been called on for another 'accidental death', but Ito couldn't shake off the feeling that there was something more – an undercurrent of deceit that echoed through Sato's opulent life: a life he'd built on his ruthless pursuit of perfection, fueled by the insatiable greed that drove him to create ever-bigger digital empires. Now, surrounded by the serene beauty of bonsai trees and meticulously arranged pebbles, Ito found himself questioning every detail of Sato’s death.  The police had already concluded it as suicide - a calculated act in which he'd poisoned himself with an intricate blend of rare Japanese herbs that only he could have known about, leaving no trace except for a single, pristine stone sculpture –  carved into the shape of an unsettling face. It seemed too perfect, too clean, too deliberate, a reflection of Sato’s own cold, calculated persona.   Ito walked closer to the stone face, his gaze lingering on the intricate details etched into its surface; but something felt amiss. The stone's silence was not that of peace, it echoed with an eerie sense of foreboding, as if whispering forgotten truths. Ito couldn’t shake off the feeling – there was something more here, something hidden beneath the veil of tranquility. He turned to leave the garden, only to find himself trapped in a seemingly endless labyrinth of stones and bonsai trees. Each step forward seemed to send him deeper into an unfathomable mystery.",
+    "twist": "The stone face was not Sato's.  It was a mask, meticulously sculpted from a centuries-old Japanese funeral wood that had been imbued with the essence of his soul during his final moments by the very woman he’d loved and betrayed for his ambition –  a woman whose life was now entangled in a web of debt and secrets only she could unravel.",
+    "image_prompt": "A moody dark cinematic photograph of a snowy Kyoto garden at dusk,  haunting light illuminating an intricately carved stone face, the stones etched with the outline of a person's face. Focus on rich traditional elements, eerie shadows, dramatic lighting, premium quality, no human text, suitable for FLUX.1",
+    "image_url": "stories/2026-08-12.png"
+  },
+  {
     "id": "story_20260811",
     "title": "Whispers from the Wabi-Sabi Shore",
     "date": "2026-08-11",
