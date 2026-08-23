@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260823",
+    "title": "The Shadow of the Crimson Stag",
+    "date": "2026-08-23",
+    "location": "The Silent Pines, Nara",
+    "excerpt": "Beneath the blood-red moon that bled into the twilight skies, Detective Kenji Ito, a man more at ease with a bamboo whisk than a gun, found himself standing at the precipice of a mystery that felt as ancient as the deer who roamed the forest paths.",
+    "content": "The silence of the Silent Pines was a familiar embrace to Kenji. Years spent chasing shadows had painted him with the patina of solitude, his cynicism as stark and unforgiving as the crimson moon that bled across the inky canvas of the night. The deer, once a beacon of serenity, were now more than just graceful creatures of the forest, their presence felt as an omen. Their eyes, reflecting the eerie luminescence of the blood-red moon, seemed to hold a hidden knowledge. It was a knowledge that drew Kenji closer, his cynical heart strangely drawn to the mystery of their silent vigil.",
+    "twist": "The deer weren't the silent keepers of knowledge; they were guardians of a legacy, a family heirloom stolen from the depths of the ancient forest, coveted by the very corporations that now used the forest's mystical aura as an advertising tool. Kenji's cynicism had blinded him to the true source of the mystery, a legacy that he himself, a man whose heart was as hard as the stone-carved temple in the forest, was bound to inherit. He had stumbled upon his family's secret in the most mundane way - a misplaced business card. The Crimson Stag - the family crest - was not a symbol of tradition but a symbol of a corrupting greed for profit. It was a truth he had been blind to, a truth that shimmered like the blood-red moon on a glass of sake, a truth that he was now forced to face.",
+    "image_prompt": "A detailed 16:9 photo prompt for generating the illustration. Focus on rich traditional elements, eerie shadows, dramatic lighting, premium quality, no human text, suitable for FLUX.1 (e.g. 'A moody dark cinematic photograph of a silent deer silhouette walking through a forest of ancient red pines, blood-red moonlit sky, high contrast, hyperrealistic 16:9')",
+    "image_url": "stories/2026-08-23.png"
+  },
+  {
     "id": "story_20260822",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-08-22",
