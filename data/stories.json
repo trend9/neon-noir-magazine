@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20260828",
+    "title": "The Whispering Geyser",
+    "date": "2026-08-28",
+    "location": "Hakone, Japan",
+    "excerpt": "The wind howled across the volcanic peaks of Hakone, whipping the snow into miniature tornadoes that danced around the Ryokan's ancient, moss-covered cedar wood. Inside, the steam from the onsen, a shimmering curtain of geothermal energy, swirled with a quiet, hypnotic melancholy. But the serenity was shattered when a single guest was discovered dead.",
+    "content": "The air itself felt heavy, pregnant with the silent, melancholic weight of a thousand forgotten sorrows. Kaito, a man who carried the city-slicker cynicism of a thousand corporate board meetings in his steel-rimmed glasses and a tailored suit, stood by the water's edge, a lone cypress tree standing sentinel in the swirling vapor. The guest was a titan of the tech industry, a man who had built his fortune on a foundation of virtual reality and augmented dreams.  He had spent his days in neon-lit boardrooms, his nights in a digital labyrinth, his life a symphony of profit and power. Now, his lifeless form lay still, a stark contrast to the turbulent beauty of the onsen. A single geyser, a silent, spectral whisper of the earth's fury, was spewing forth hot water into the night.  Kaito knew, with the certainty of a man who had seen too much, too soon, that this was no accident. The whispers of the wind, the silent rustle of the leaves, they all held an unspoken truth. Something had happened, something sinister, something that lurked beneath the tranquil surface of the mountainside.",
+    "twist": "The truth, as Kaito expected, was not of murder, but of ambition. The titan's death was orchestrated by his own son, a young prodigy in the family business. The son, driven by an insatiable hunger for a legacy far greater than his father's, used the geyser to subtly leak information about a secret project - a virtual reality world designed to transcend death itself, a world where the wealthy would not only live forever, but also control every aspect of existence. The son had chosen Kaito to act as a willing accomplice. His eyes gleamed with the cold, calculating brilliance of a man who had realized that true power lay not in controlling the world, but in manipulating it from beyond its very boundaries.",
+    "image_prompt": "A moody, black-and-white photograph of a geyser erupting amidst a swirling storm of snow in a Japanese mountain setting. The geyser's steam is illuminated by a single, neon-lit sign that reads 'Virtual Reality'.",
+    "image_url": "stories/2026-08-28.png"
+  },
+  {
     "id": "story_20260827",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-08-27",
