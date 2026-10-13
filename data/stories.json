@@ -1,5 +1,16 @@
 [
   {
+    "id": "story_20261013",
+    "title": "The Whispering Tide",
+    "date": "2026-10-13",
+    "location": "Miyajima Shrine",
+    "excerpt": "The salty wind howled like a scorned lover, its voice swallowed by the roaring tide.  It was said that the shrine, even in its silent state, was haunted by whispers, the echoes of promises made and broken under the unforgiving gaze of the moon. It was a place of beauty and decay, of quiet solitude and a festering undercurrent of greed.",
+    "content": "Kenji, a man whose cynicism was as deep as the fathomless ocean he surveyed from the shrine's crumbling stone steps, had a knack for finding the cracks in the carefully constructed world. Here, under the austere gaze of the weathered wooden shrine, he found his purpose. It wasn't the spirit of the place, he mused, but rather the spirit of those who had been here before him – men blinded by a naive thirst for the unfathomable, men who had died, their wealth, and their dreams swallowed by the unforgiving tide.",
+    "twist": "Kenji's intuition proved right.  His search for the missing fortune had led him to the shrine's depths.  Not a single coin, not a single scrap of the wealthy man's life, had survived the relentless onslaught of the tides.  It was as if the fortune had simply… vanished, leaving behind only a sense of overwhelming, hollow despair. Kenji felt a chill crawl down his spine as he realized the truth - the missing man hadn't died, he'd simply vanished.  But not before, he discovered, his wealth had been absorbed, devoured by the shrine itself. The shrine, in its silent, ancient wisdom, had used the man's greed to sustain its power, a cruel, silent predator waiting for the next foolish soul to fall into its trap.",
+    "image_prompt": "A moody dark cinematic photograph of a weathered Miyajima Shrine, the weathered wooden gate partially submerged in the ocean.  The shrine's stone steps lead down to a rocky shore where the tide rushes towards the shore. The reflection of a full moon is visible, casting an eerie silver glow on the scene. High contrast, hyperrealistic, dramatic lighting, 16:9, FLUX.1",
+    "image_url": "stories/2026-10-13.png"
+  },
+  {
     "id": "story_20261012",
     "title": "The Hollow Soughing of the Wind",
     "date": "2026-10-12",
